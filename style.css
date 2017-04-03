@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background-color: rgb(10,7,0);
+  color: white;
+}
+
+.quote-box {
+  border: 5px solid white;
+  margin-bottom: 20px;
+}
+
+span {
+  font-size: 30px;
+}
+
+.author {
+  font-style: italic;
+}
+
+#tweetButton {
+  background-color: #00aced;
+}
+
+.btn {
+  font-weight: bold;
+}
